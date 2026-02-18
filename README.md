@@ -1,12 +1,7 @@
-👋 Hi, I’m Sakthivel
-👀 I’m interested in Web development
-🌱 I’m currently learning React.js
-💞️ I’m looking to collaborate on web development projects
-📫 How to reach me: vel8679@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: I love integrating creative design with functional web applications
+👋 Hi, I’m Sakthivel  
+Full Stack Developer specializing in ERP & SaaS systems.  
+3+ years of experience building scalable web applications using PHP, MySQL, React, and modern frontend technologies.  
 
-<!---
-Sakthi-DevNinja/Sakthi-DevNinja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌐 Portfolio: https://iamsakthi.in  
+📫 Email: vel8679@gmail.com  
+🤝 Open to collaboration & professional opportunities
