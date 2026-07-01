@@ -18,7 +18,7 @@
 <br/>
 
 ```
-> whoami
+> who am i
 Senior UI/UX Specialist & Full Stack Developer, 3+ yrs, ERP/SaaS focus
 Stack: PHP · MySQL · React · REST APIs · Figma → Code
 Currently: architecting UI/UX + backend for enterprise ERP systems
